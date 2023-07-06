@@ -6,7 +6,7 @@ import threading
 import socket
 
 #Selecting our target IP address
-target = '192.168.0.1'
+target = '172.0.0.1'
 
 #Select the port we want to deny service (In this case HTTP)
 port = 80
